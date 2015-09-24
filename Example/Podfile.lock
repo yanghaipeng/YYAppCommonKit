@@ -1,0 +1,14 @@
+PODS:
+  - YYAppCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - YYAppCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  YYAppCommonKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YYAppCommonKit: e9feb8a17b0c3848ecde418bd31d9318f1163c56
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,25 @@
+{
+  "name": "YYAppCommonKit",
+  "version": "0.1.0",
+  "summary": "A short description of YYAppCommonKit.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/YYAppCommonKit",
+  "license": "MIT",
+  "authors": {
+    "yanghaipeng": "yanghaipeng@yy.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/YYAppCommonKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "YYAppCommonKit": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

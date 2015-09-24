@@ -1,0 +1,6 @@
+framework module YYAppCommonKit {
+  umbrella header "YYAppCommonKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
